@@ -1,0 +1,3 @@
+[submodule "jaxutils"]
+	path = jaxutils
+	url = git@github.com:shreyaspadhy/jaxutils.git
