@@ -1,6 +1,5 @@
-# Linearised NNs
-
-This repository includes code and experiments for the paper [Sampling-based inference for large linear models, with application to linearised Laplace]().
+# sampled-laplace
+This repository includes Jax code and experiments for the paper [Sampling-based inference for large linear models, with application to linearised Laplace]().
 
 
 ## Run experiments
